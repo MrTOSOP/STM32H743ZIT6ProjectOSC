@@ -8,3 +8,4 @@
 <img width="4096" height="3072" alt="IMG20260428201103" src="https://github.com/user-attachments/assets/1b6cdb08-eccf-431e-b43e-8dab590c1281" />
 <img width="4096" height="3072" alt="IMG20260428201032" src="https://github.com/user-attachments/assets/e1e532f1-3dfa-4f15-8f7e-255c39c39179" />
 <img width="4096" height="3072" alt="IMG20260428201117" src="https://github.com/user-attachments/assets/7bd8f949-7afd-46ca-b89e-e591cc1f86a0" />
+此玩具可测波形和频普并且通过串口发送到电脑
